@@ -17,7 +17,7 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 💻 Sobre mim
 
 Sou estudante do **2º semestre de Ciência da Computação na UFPA**, no início da graduação, mas já aplicando o que aprendo em situações reais:
 
@@ -105,7 +105,7 @@ Estou **aberto a oportunidades de estágio e trabalho** — presenciais em **Bel
 
 ---
 
-### 🧑‍💻 About me
+### 💻 About me
 
 I'm a **2nd-semester Computer Science student at UFPA**, early in my degree but already applying what I learn to real-world situations:
 
