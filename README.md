@@ -62,6 +62,7 @@ Sou estudante do **2º semestre de Ciência da Computação na UFPA**, no iníci
 
 - **IA Educacional para Alfabetização na Amazônia** — sistema baseado em **RAG** que combina **ChromaDB**, **SQLAlchemy** e **LLMs (Gemini)** para apoiar a alfabetização em contextos amazônicos. É o projeto que mais me motiva: tecnologia com impacto social real.
 - **Sistema Web Laravel (PROEG/UFPA)** — desenvolvimento de funcionalidades para sistemas institucionais da universidade, com PHP, Laravel, MySQL e Docker.
+- **ControleGastos** — aplicação para controle de despesas pessoais, com foco em organização financeira e acompanhamento simples dos gastos do dia a dia.
 - **TaskManager** — aplicação desktop de gerenciamento de tarefas em Python/Tkinter, desenvolvida na disciplina de Algoritmos.
 - **LeetCode** — rotina de estudos de algoritmos e estruturas de dados, com soluções em Python.
 
@@ -150,6 +151,7 @@ I'm a **2nd-semester Computer Science student at UFPA**, early in my degree but 
 
 - **Educational AI for Literacy in the Amazon** — a **RAG**-based system combining **ChromaDB**, **SQLAlchemy**, and **LLMs (Gemini)** to support literacy in Amazonian contexts. It's the project that motivates me the most: technology with real social impact.
 - **Laravel Web System (PROEG/UFPA)** — developing features for the university's institutional systems with PHP, Laravel, MySQL, and Docker.
+- **ControleGastos** — personal expense tracking app focused on financial organization and simple day-to-day spending monitoring.
 - **TaskManager** — desktop task management app in Python/Tkinter, built for the Algorithms course.
 - **LeetCode** — data structures and algorithms study routine, with Python solutions.
 
