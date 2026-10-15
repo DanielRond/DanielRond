@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrond)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldossantos1818@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/250878352052859)
+[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)]( http://lattes.cnpq.br/2508783520528599)
 
 ---
 
@@ -118,7 +118,7 @@ Estou **aberto a oportunidades de estágio e trabalho** — presenciais em **Bel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrond)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldossantos1818@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/250878352052859)
+[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)]( http://lattes.cnpq.br/2508783520528599)
 
 ---
 
