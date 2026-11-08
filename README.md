@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrond)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldossantos1818@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)]( http://lattes.cnpq.br/2508783520528599)
+[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/2508783520528599)
 
 ---
 
@@ -48,6 +48,7 @@ Sou estudante do **2º semestre de Ciência da Computação na UFPA**, no iníci
 
 **Banco de Dados**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -61,6 +62,7 @@ Sou estudante do **2º semestre de Ciência da Computação na UFPA**, no iníci
 **DevOps & Ferramentas**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -81,11 +83,16 @@ Sou estudante do **2º semestre de Ciência da Computação na UFPA**, no iníci
 - **Bacharelado em Ciência da Computação** — UFPA (em andamento, 2º semestre);
 - **Projeto Posniak** — programação competitiva (OBI e Maratona SBC).
 
-**Formação complementar**
+**Cursos**
 
 - Fundamentos de Linguagem Python – Do Básico a Aplicações de IA (96h) — Data Science Academy;
-- Python Norte 2026 (16h) — participação no evento;
 - Fundamentos de Suporte em TI — Google/Coursera (Módulo 1).
+
+**Eventos**
+
+- AWS Community Day Brasil – Edição Norte (10h) — Belém/PA, 2026;
+- Python Norte 2026 (16h) — Belém/PA;
+- SECOMP 2026 — Semana da Computação da UFPA (voluntário na organização, 20h).
 
 ---
 
@@ -102,7 +109,7 @@ Estou **aberto a oportunidades de estágio e trabalho** — presenciais em **Bel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrond)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldossantos1818@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/250878352052859)
+[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/2508783520528599)
 
 ---
 
@@ -118,7 +125,7 @@ Estou **aberto a oportunidades de estágio e trabalho** — presenciais em **Bel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrond)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldossantos1818@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)]( http://lattes.cnpq.br/2508783520528599)
+[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/2508783520528599)
 
 ---
 
@@ -152,6 +159,7 @@ I'm a **2nd-semester Computer Science student at UFPA**, early in my degree but 
 
 **Databases**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -165,6 +173,7 @@ I'm a **2nd-semester Computer Science student at UFPA**, early in my degree but 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -185,11 +194,16 @@ I'm a **2nd-semester Computer Science student at UFPA**, early in my degree but 
 - **B.Sc. in Computer Science** — UFPA (in progress, 2nd semester);
 - **Projeto Posniak** — competitive programming (OBI and SBC Marathon).
 
-**Complementary training**
+**Courses**
 
 - Python Programming Fundamentals – From Basics to AI Applications (96h) — Data Science Academy;
-- Python Norte 2026 (16h) — event participation;
 - IT Support Fundamentals — Google/Coursera (Module 1).
+
+**Events**
+
+- AWS Community Day Brazil – North Edition (10h) — Belém/PA, 2026;
+- Python Norte 2026 (16h) — Belém/PA;
+- SECOMP 2026 — UFPA Computing Week (volunteer organizer, 20h).
 
 ---
 
@@ -206,4 +220,4 @@ I'm **open to internship and job opportunities** — on-site in **Belém/PA and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrond)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldossantos1818@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/250878352052859)
+[![Lattes](https://img.shields.io/badge/Lattes-005BA1?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/2508783520528599)
